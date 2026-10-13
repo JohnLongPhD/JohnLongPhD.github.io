@@ -11,6 +11,7 @@ locale                   : "en-US"
 site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "John W. Long"
 title_separator          : "-"
+masthead_title           : "Home"
 name                     : &name "John W. Long"
 description              : &description "Academic website for John W. Long — under construction"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://johnlongphd.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
@@ -52,7 +53,6 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
