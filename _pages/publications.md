@@ -7,8 +7,6 @@ author_profile: true
 
 ## Environmental drivers of food selection and intake
 
----
-
 How properties of the food environment — portion size, variety, energy density — affect what people select and how much they eat.
 
 1. **Long, J. W.**, Cunningham, P. M., Keller, K. L., Rolls, B. J., & Masterson, T. D. (2026). [Food variety affects food selection and variety-seeking behaviors in an immersive virtual reality food buffet](https://doi.org/10.1016/j.appet.2026.108484). *Appetite, 221*, 108484.
@@ -21,15 +19,11 @@ How properties of the food environment — portion size, variety, energy density
 
 ## Sensory and oral processing affect eating behavior
 
----
-
 How the sensory properties of food and the mechanics of eating affect food perception and eating behavior.
 
 1. Akanzinge, E. A., **Long, J. W.**, & Hayes, J. E. (2026). [Differential roles of oral physiology and oral processing behaviors on eating rate and snack intake in adults with healthy dentition](https://doi.org/10.1016/j.physbeh.2026.115499). *Physiology & Behavior, 317*, 115499.
 
 ## Methods, tools, and measurement
-
----
 
 Software and other open-source tools designed to improve the measurement of sensory and eating behavior.
 
@@ -40,8 +34,6 @@ Software and other open-source tools designed to improve the measurement of sens
 3. **Long, J. W.**, Masters, B., Sajjadi, P., Simons, C., & Masterson, T. D. (2023). [The development of an immersive mixed-reality application to improve the ecological validity of eating and sensory behavior research](https://doi.org/10.3389/fnut.2023.1170311). *Frontiers in Nutrition, 10*, 1170311.
 
 ## Other work
-
----
 
 ### Physical activity, sleep, and athlete health
 
