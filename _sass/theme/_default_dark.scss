@@ -54,3 +54,6 @@ html[data-theme="dark"] {
     --global-thead-color                : #{$background-lighter};
 }
 
+h2 {
+  border-bottom: 1px solid var(--global-text-color);
+}
