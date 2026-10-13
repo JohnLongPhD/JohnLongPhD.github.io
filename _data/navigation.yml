@@ -11,6 +11,12 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "CV"
+    url: /files/jwl_cv.pdf
+
+  - title: "Media"
+    url: /media/
+
   - title: "Talks"
     url: /talks/    
 
@@ -22,13 +28,7 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /files/jwl_cv.pdf
-
-  - title: "Media"
-    url: /media/
-    
+  
   # - title: "CV"
   #   url: /cv-json/
     
