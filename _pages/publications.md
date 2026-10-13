@@ -7,7 +7,7 @@ author_profile: true
 
 ## Environmental drivers of food selection and intake
 
-How properties of the food environment — portion size, variety, energy density — shape what people select, and how selection relates to what they eat.
+How properties of the food environment — portion size, variety, energy density — affect what people select and how much they eat.
 
 1. **Long, J. W.**, Cunningham, P. M., Keller, K. L., Rolls, B. J., & Masterson, T. D. (2026). [Food variety affects food selection and variety-seeking behaviors in an immersive virtual reality food buffet](https://doi.org/10.1016/j.appet.2026.108484). *Appetite, 221*, 108484.
 
@@ -17,15 +17,15 @@ How properties of the food environment — portion size, variety, energy density
 
 4. **Long, J. W.**, Pritschet, S. J., Keller, K. L., Cheah, C. S. L., Boot, L., Klippel, A., Brick, T. R., Edwards, C. G., Rolls, B. J., & Masterson, T. D. (2023). [Portion size affects food selection in an immersive virtual reality buffet and is related to measured intake in laboratory meals varying in portion size](https://doi.org/10.1016/j.appet.2023.107052). *Appetite, 191*, 107052.
 
-## Sensory and oral processing behaviors shape eating
+## Sensory and oral processing behaviors affect eating
 
-How the sensory properties of food and the way we process it in the mouth influence eating rate and intake.
+How the sensory properties of food and the mechanics of eating affect food perception and eating behavior.
 
 1. Akanzinge, E. A., **Long, J. W.**, & Hayes, J. E. (2026). [Differential roles of oral physiology and oral processing behaviors on eating rate and snack intake in adults with healthy dentition](https://doi.org/10.1016/j.physbeh.2026.115499). *Physiology & Behavior, 317*, 115499.
 
 ## Methods, tools, and measurement
 
-Open tools and immersive paradigms that make eating behavior measurable with greater precision and ecological validity.
+Software and other open-source tools designed to improve the measurement of sensory and eating behavior.
 
 1. **Long, J. W.**, Akanzinge, E., & Hayes, J. E. (2026). [chewR: An open-source R package for quantifying masticatory performance with applications in oral processing research](https://doi.org/10.1111/jtxs.70112). *Journal of Texture Studies, 57*(5), e70112.
 
