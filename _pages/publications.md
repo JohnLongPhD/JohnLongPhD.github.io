@@ -19,7 +19,7 @@ How properties of the food environment — portion size, variety, energy density
 
 4. **Long, J. W.**, Pritschet, S. J., Keller, K. L., Cheah, C. S. L., Boot, L., Klippel, A., Brick, T. R., Edwards, C. G., Rolls, B. J., & Masterson, T. D. (2023). [Portion size affects food selection in an immersive virtual reality buffet and is related to measured intake in laboratory meals varying in portion size](https://doi.org/10.1016/j.appet.2023.107052). *Appetite, 191*, 107052.
 
-## Sensory and oral processing behaviors affect eating
+## Sensory and oral processing affect eating behavior
 
 ---
 
