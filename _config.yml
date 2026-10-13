@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "John W. Long"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Columbia, Missouri"
+  bio              : "Assistant Professor of Sensory Science"
+  location         : # URL
   employer         : "University of Missouri"
   uri              : # URL
   email            : "jwl6179@psu.edu" 
