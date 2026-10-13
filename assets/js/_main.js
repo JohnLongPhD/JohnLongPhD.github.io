@@ -10,7 +10,7 @@ const PLOTLY_URL = "https://cdn.jsdelivr.net/npm/plotly.js@3.6.0/dist/plotly.min
 const MERMAID_URL = "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs";
 
 // Detect OS/browser preference
-const browserPref = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+const browserPref = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark) and (min-width: 99999px)').matches;
 
 // Determine the computed theme, which can be "dark" or "light".
 function determineComputedTheme() {
