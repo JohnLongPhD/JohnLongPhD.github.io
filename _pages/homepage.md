@@ -21,4 +21,4 @@ In August 2027 I will join the University of Missouri as an Assistant Professor 
 
 **Graduate students.** I will be recruiting PhD and MS students to begin in Fall 2027. Email me before applying, with your CV and a paragraph about your research interests and why this lab in particular.
 
-**Undergraduate students.** Students interested in gaining research experience are welcome to reach out at any time.
+**Undergraduate students.** Students interested in gaining research experience are welcome to reach out.
