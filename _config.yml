@@ -13,7 +13,7 @@ title                    : "John W. Long"
 title_separator          : "-"
 masthead_title           : "Home"
 name                     : &name "John W. Long"
-description              : &description "Academic website for John W. Long — under construction"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "John W. Long, PhD. Sensory science and nutrition research on food selection, energy intake, and chronic disease risk."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://johnlongphd.com # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -27,7 +27,7 @@ author:
   avatar           : "profile.jpg"
   name             : "John W. Long"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor of Sensory Science [incoming]"
+  bio              : "Assistant Professor of Sensory Science (starting August 2027)"
   location         : # URL
   employer         : "University of Missouri"
   uri              : # URL
